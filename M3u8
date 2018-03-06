@@ -1,8 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="" tvg-name="LISTA GRATUITA" tvg-logo="http://tvpremiumhd.com/channels/live/upload/7643.png" group-title="Lista Gratuita",LISTA GRATUITA
-http://tvpremiumhd.com/channels/tvpremiumhd.mp4
-#EXTINF:-1 tvg-id="" tvg-name="TV MÉXICO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/7643.png" group-title="Lista Gratuita",TV MÉXICO
-http://tvpremiumhd.com/channels/tvpremiumhd.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Las Estrellas" tvg-logo="http://tvpremiumhd.com/channels/live/upload/8672.png" group-title="Lista Gratuita",LAS ESTRELLAS
 http://tvpremiumhd.com/lista-gratuita/xi/lasestrellas.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 5" tvg-logo="https://i.imgur.com/DGLErO8.png" group-title="Lista Gratuita",Canal 5
